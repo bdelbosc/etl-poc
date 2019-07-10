@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-SymbolicName: org.nuxeo.sample.etl.load;singleton:=true
+Bundle-Name: Nuxeo ETL Load
+Bundle-Vendor: Nuxeo
+Nuxeo-Component: OSGI-INF/operations-contrib.xml

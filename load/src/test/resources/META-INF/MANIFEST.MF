@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: Nuxeo ETL Load Tests
+Bundle-SymbolicName: org.nuxeo.sample.etl.load.test;singleton:=true
+Bundle-Vendor: Nuxeo

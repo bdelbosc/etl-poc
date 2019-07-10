@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<component name="org.nuxeo.importer.stream.tests">
+
+  <extension point="logConfig" target="org.nuxeo.runtime.stream.service">
+
+    <logConfig name="chronicle" type="chronicle">
+      <option name="basePath">/tmp</option>
+      <option name="directory">etl</option>
+    </logConfig>
+
+    <logConfig name="kafka" type="kafka">
+      <option name="config">default</option>
+    </logConfig>
+
+  </extension>
+
+</component>
